@@ -1,5 +1,5 @@
 # Industry-Grade-Project
-# Customer Engagement Enhancementin BFSI Industry
+# Customer Engagement Enhancement in BFSI Industry
 Background ParTechis an emerging subscription-based financial technology start-up that offers a range of services  to  its  customers,  including  bank  accounts,  debit  cards,  currency  exchange,  stock trading,  cryptocurrency  exchange,  and  peer-to-peer  payments.  As  with  many  subscription-based  businesses (especially in the FinTech domain), one of the main areas of concern for the company  has  been  customer  engagement  and  increasing  churn  rate.  They  need  assistance from  a team  of Data Scientists in quantifying successand driving their business teams towards an effective customer retention strategy.As Data Scientists,our objectiveis to build a data-driven, actionable, and effective solution for ParTech to help improve customer engagement and mitigate churn.
 
 # Key-skill:
